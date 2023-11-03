@@ -2,7 +2,3 @@ Vim is my favourite text editor
 I love using it
 I'm accessing using git
 I'm loving it!!
-
-Git is easy to use
-
-
